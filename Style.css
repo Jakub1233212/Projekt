@@ -48,10 +48,10 @@ p {
 img
 {
     border: 0px solid;
-    max-width: 100%;
+    max-width: 600px;
 }
 img:hover
 {
     border: 3px solid;
-    max-width: 100%;
+    max-width: 600px;
 }
